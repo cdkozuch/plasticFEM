@@ -1,5 +1,5 @@
 # plasticFEM
-Finite Element Method (FEM) for plastic material implemented in MATLAB
+Finite Element Method (FEM) for plastic material implemented in MATLAB (it is also compatible with Octave 7.2). 
 
 ## Note
 The current version only accepts applied displacements (i.e. no applied forces).
